@@ -1,7 +1,7 @@
 Tiicon 2
 =======
 
-![Logo](templates/logo.png)
+![Logo](http://projects.ff22.de/tiicon/logo.png)
 
 Tiicon 2 - A new set of Timon's Icons (Tiicon)
 

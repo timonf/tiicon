@@ -1,6 +1,8 @@
 Tiicon 2
 =======
 
+![Logo](templates/logo.png)
+
 Tiicon 2 - A new set of Timon's Icons (Tiicon)
 
 *   Monochrome
